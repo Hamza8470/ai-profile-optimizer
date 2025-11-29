@@ -1,5 +1,7 @@
 # AI Profile Optimizer (Static site)
 
+[![Maven CI](https://github.com/Hamza8470/ai-profile-optimizer/actions/workflows/maven-ci.yml/badge.svg)](https://github.com/Hamza8470/ai-profile-optimizer/actions)
+
 This repository contains the static HTML/CSS/JS site for the AI Profile Optimizer project.
 It is packaged and built using **Maven** so that the project satisfies GitHub + Maven evaluation requirements.
 
