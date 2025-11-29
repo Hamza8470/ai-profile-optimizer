@@ -12,3 +12,6 @@ It is packaged and built using **Maven** so that the project satisfies GitHub + 
 - `pom.xml` present in repo root
 - GitHub Actions CI configured (Maven build)
 - Handwritten synopsis placeholder: `docs/synopsis.jpg`
+
+## CI/CD Pipeline
+- CI: builds via GitHub Actions (Maven)
