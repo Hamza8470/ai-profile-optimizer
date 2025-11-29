@@ -1,0 +1,6 @@
+/* Minimal styles for presentation */
+body { font-family: Arial, sans-serif; background:#fff7f7; color:#222; padding:2rem; }
+header { text-align:center; margin-bottom:2rem; }
+.cards { display:flex; gap:1rem; flex-wrap:wrap; }
+.card { background:white; border-radius:8px; box-shadow:0 3px 8px rgba(0,0,0,0.08); padding:1rem; width:200px; }
+.share-buttons a { display:inline-block; margin-right:0.5rem; padding:0.4rem 0.8rem; background:#c62828; color:white; text-decoration:none; border-radius:6px; }
